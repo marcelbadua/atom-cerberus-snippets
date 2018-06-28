@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-cerberus-snippets:toggle"
   },
-  "repository": "https://github.com/atom/atom-cerberus-snippets",
+  "repository": "https://github.com/marcelbadua/atom-cerberus-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
