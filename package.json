@@ -1,14 +1,14 @@
 {
   "name": "atom-cerberus-snippets",
   "main": "./lib/atom-cerberus-snippets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Snippets for using Cerberus Email Patterns http://tedgoas.github.io/Cerberus/",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-cerberus-snippets:toggle"
   },
-  "repository": "https://github.com/marcelbadua/atom-cerberus-snippets",
+  "repository": "https://github.com/atom/atom-cerberus-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
