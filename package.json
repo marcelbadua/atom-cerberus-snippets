@@ -1,10 +1,9 @@
 {
   "name": "atom-cerberus-snippets",
   "main": "./lib/atom-cerberus-snippets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Snippets for using Cerberus Email Patterns",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-cerberus-snippets:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
