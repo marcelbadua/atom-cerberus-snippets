@@ -2,7 +2,7 @@
   "name": "atom-cerberus-snippets",
   "main": "./lib/atom-cerberus-snippets",
   "version": "0.0.1",
-  "description": "Snippets for using Cerberus Email Patterns http://tedgoas.github.io/Cerberus/",
+  "description": "Snippets for using Cerberus Email Patterns",
   "keywords": [
   ],
   "activationCommands": {
