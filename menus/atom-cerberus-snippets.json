@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-cerberus-snippets",
+        "command": "atom-cerberus-snippets:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-cerberus-snippets",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-cerberus-snippets:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
